@@ -1,0 +1,5 @@
+slack-bolt>=1.18.0
+slack-sdk>=3.26.0
+flask>=3.0.0
+requests>=2.31.0
+pytz>=2024.1
